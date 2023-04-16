@@ -1,5 +1,7 @@
-# 💫 About Me:
-🔭 I’m currently working on making websites and games.<br>🌱 I’m currently learning front-end development.<br>⚡ Fun fact - passion for marketing brought me to UI/UX which made me want to code it for it to be alive!
+# Welcome to my profile, I'm Mufliha!
+Year 1 Computer Science student at Heriot-Watt Univeristy. <br>
+I’m currently working on making websites and learning front-end development.<br> <br>
+⚡ Fun fact - passion for marketing brought me to UI/UX which made me want to code it for it to be alive!
 
 
 ## 🌐 Socials:
