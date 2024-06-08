@@ -1,7 +1,7 @@
 # Welcome to my profile, I'm Mufliha!
 Year 2 Computer Science student at Heriot-Watt Univeristy. <br>
 
-GDSC Lead | VP of Tech Club
+GDSC Lead | President of Tech Club
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mufliha.dawood) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muflihadawood) 
